@@ -12,14 +12,9 @@
 ---
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelenab98&count_private=true&show_icons=true&theme=dracula)]()
-
-
----
-
 <!--
 **jelenab98/jelenab98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelenab98&count_private=true&show_icons=true&theme=dracula)]()
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
