@@ -11,6 +11,8 @@
 
 ---
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jelenab98&theme=dracula)](https://git.io/streak-stats)
+
 
 <!--
 **jelenab98/jelenab98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
