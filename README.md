@@ -3,8 +3,8 @@
 ---
 ###  :woman_technologist: About Me :
 
-- 🎓 I am a Computer Science Master student at FER, University of Zagreb from Croatia :croatia:
-- 🔭 I’m currently working as a Junior Researcher in Computer Vision at UNIZG-FER :computer: .
+- 🎓 I am a PhD student at University of Freiburg in Germany 🇩🇪
+- 🔭 I received my Bachelor's and Master's degree from University of Zagreb - Faculty of Electrical Engineering and Computing 🇭🇷 where I was also working as a Junior Researcher in Computer Vision :computer: 👁️
 - 💬 Ask me about computer science, mathematics and gastronomy 👩‍🏫 :spaghetti: :sushi:.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jelena-bratulic), [![UniZG-FER]()](https://www.fer.unizg.hr/jelena.bratulic) 
 - :zap: In my free time, I like to bake cakes, play board games, learn foreign languages and play different sports :cake: ♟ 🇮🇹 🇬🇧 🇷🇺 🇩🇪 :boxing_glove:🏋🏻‍♀️ :basketball:
